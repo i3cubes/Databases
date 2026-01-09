@@ -1,0 +1,14 @@
+id,name
+1,Customer
+2,User
+3,"Fault Ticket"
+4,Contract
+5,"System Parameters"
+6,Equipment
+7,"Service Order"
+8,"Repair Order"
+9,"Job Order"
+10,"Work Order"
+11,Quotation
+12,Inquery
+13,Report
